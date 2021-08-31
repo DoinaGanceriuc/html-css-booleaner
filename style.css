@@ -106,3 +106,9 @@ tr {
     width: 312px;
     margin-top: 10px;
 }
+
+.foto {
+    color: white;
+    padding: 15px;
+    font-size: 25px; 
+}
